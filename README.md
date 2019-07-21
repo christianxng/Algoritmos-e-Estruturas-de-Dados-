@@ -30,5 +30,5 @@ Possui 11 Aulas que estão dispostas de tal forma:
 Todos os códigos foram implementados na linguagem C. 
 
 
-###  🗯 Links Úteis
+###  📌 Links Úteis
 [Universidade Federal de Viçosa - Campus Rio Paranaíba](http://www.crp.ufv.br)
